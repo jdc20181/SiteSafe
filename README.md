@@ -1,5 +1,4 @@
 # SiteSafe
-A Safe Browsing experience for BeffsBrowser
+A Safe Browsing experience from BeffsBrowser
 
-____________________________________________________/
 
